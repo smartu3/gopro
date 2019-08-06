@@ -2,7 +2,7 @@ package router
 
 import (
 	"net/http"
-	"myapi/service"
+	"../service"
 	"./middleware"
 	"github.com/gin-gonic/gin"
 )
